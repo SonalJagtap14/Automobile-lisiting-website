@@ -281,10 +281,10 @@
   ],
   "user": {
     "id": 1,
-    "name": "SJ",
-    "email": "john.doe@example.com",
+    "name": "Sonal",
+    "email": "sonal.doe@example.com",
     "phoneNumber": "555-123-4567",
-    "address": "123 Main Street, Anytown,India"
+    "address": "123 Main Street, Anytown, USA"
   },
   "wishlist": []
 }
